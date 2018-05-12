@@ -1,0 +1,29 @@
+_repo: Cactus-Culture-for-Amateurs--13-With-Full-and-Practical-Instructions-for-Their-Successful-Cul__13357
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watson, William
+    alias: Watson, W. (William)
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '5020'
+    url: http://www.gutenberg.org/2009/agents/5020
+description: ''
+gutenberg_issued: '2004-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cactus'
+- !lcc 'QK'
+title: "Cactus Culture for Amateurs\r\nBeing Descriptions of the Various Cactuses\
+  \ Grown in This Country, With Full and Practical Instructions for Their Successful\
+  \ Cultivation"
+url: http://www.gutenberg.org/ebooks/13357
