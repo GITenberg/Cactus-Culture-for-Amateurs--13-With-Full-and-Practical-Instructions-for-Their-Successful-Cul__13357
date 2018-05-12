@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5020'
     url: http://www.gutenberg.org/2009/agents/5020
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13357#Cactus-Culture-for-Amateurs--13-With-Full-and-Practical-Instructions-for-Their-Successful-Cul_
 gutenberg_issued: '2004-09-03'
 gutenberg_type: Text
 identifiers:
